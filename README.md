@@ -3,7 +3,7 @@ iOS social application, for event posting. user can sig up/in and post and event
 
 ## Screenshots
 <img src="https://github.com/SyedKhawarAli/Travel-Buddy/blob/master/Screenshots/1.png?raw=true" width="25%" height="25%" title="Timeline"><img src="https://github.com/SyedKhawarAli/Travel-Buddy/blob/master/Screenshots/2.png?raw=true" width="25%" height="25%" title="Follow">
-<img src="https://github.com/SyedKhawarAli/Travel-Buddy/blob/master/Screenshots/3.png?raw=true" width="25%" height="25%" title="Create post"><img src="https://github.com/SyedKhawarAli/Travel-Buddy/blob/master/Screenshots/4.png?raw=true" width="25%" height="25%" title="Comments">
+<img src="https://github.com/SyedKhawarAli/Travel-Buddy/blob/master/Screenshots/3.png?raw=true" width="25%" height="25%" title="Create post"><img src="https://github.com/SyedKhawarAli/Travel-Buddy/blob/master/Screenshots/4.png?raw=true" width="25%" height="25%" title="Comments"><img src="https://github.com/SyedKhawarAli/Travel-Buddy/blob/master/Screenshots/5.png?raw=true" width="25%" height="25%" title="Alreay contacted people"><img src="https://github.com/SyedKhawarAli/Travel-Buddy/blob/master/Screenshots/6.png?raw=true" width="25%" height="25%" title="Chat">
 
 ## Built With
 
